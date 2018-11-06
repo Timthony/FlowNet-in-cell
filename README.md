@@ -5,7 +5,7 @@ This repo includes FlowNetC, S, CS, CSS, CSS-ft-sd, SD, and 2 for TensorFlow. Mo
 * After installation, just copy the whole folder `FlowNet2_src` to your codebase to use. See `demo.py` for details.
 
 ### Environment
-
+务必使用Tensorflow1.2的环境
 This code has been tested with Python3.6 and TensorFlow1.2.0, with a Tesla K80 GPU. The system is Ubuntu 14.04.
 
 ### Installation
