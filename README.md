@@ -1,11 +1,11 @@
 ## FlowNet2 (TensorFlow)
-# 复现了，并且能够处理任意尺寸的输入
+能够处理任意尺寸的输入
 This repo includes FlowNetC, S, CS, CSS, CSS-ft-sd, SD, and 2 for TensorFlow. Most part are from this [repo](https://github.com/sampepose/flownet2-tf), and we have made some modifications:
 * It can deal with arbitrary size of input now.
 * After installation, just copy the whole folder `FlowNet2_src` to your codebase to use. See `demo.py` for details.
 
 ### Environment
-
+务必使用Tensorflow1.2的环境
 This code has been tested with Python3.6 and TensorFlow1.2.0, with a Tesla K80 GPU. The system is Ubuntu 14.04.
 
 ### Installation
